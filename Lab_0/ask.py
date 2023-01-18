@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import random
 
 def random_line(file_path):
