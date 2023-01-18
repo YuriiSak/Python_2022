@@ -6,4 +6,4 @@ def random_line(file_path):
         return random.choice(lines)
 
 file_path = 'dk01.txt'
-print(' \ ',' \n',  random_line(file_path), '/ ')
+print(' \ ',' \n', ' ', random_line(file_path), '/ ')
